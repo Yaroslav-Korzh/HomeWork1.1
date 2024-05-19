@@ -1,0 +1,26 @@
+Task
+Given an array of integers.
+You need to implement a method that determines whether a given array contains duplicates
+
+Example:
+Array: [4,5,6,6,8]
+Result: true
+The number 6 is repeated 2 times
+
+Array: [4,5,6,7,8]
+Result: false
+No duplicates
+
+
+Задание
+Дан массив целых чисел.
+Необходимо реализовать метод, которые определяет, содержит ли данный массив дубликаты
+
+Пример:
+Array: [4,5,6,6,8]
+Result: true
+Число 6 повторяется 2 раза
+
+Array: [4,5,6,7,8]
+Result: false
+Дубликатов нет
